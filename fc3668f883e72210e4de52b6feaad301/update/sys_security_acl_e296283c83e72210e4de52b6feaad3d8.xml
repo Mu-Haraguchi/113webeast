@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_622814_113east_113webeast</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>haraguchi.munehisa</sys_created_by>
+        <sys_created_on>2025-08-21 07:13:50</sys_created_on>
+        <sys_id>e296283c83e72210e4de52b6feaad3d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_622814_113east_113webeast</sys_name>
+        <sys_package display_value="113webeast" source="x_622814_113east">fc3668f883e72210e4de52b6feaad301</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="113webeast">fc3668f883e72210e4de52b6feaad301</sys_scope>
+        <sys_update_name>sys_security_acl_e296283c83e72210e4de52b6feaad3d8</sys_update_name>
+        <sys_updated_by>haraguchi.munehisa</sys_updated_by>
+        <sys_updated_on>2025-08-21 07:13:50</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>haraguchi.munehisa</sys_created_by>
+        <sys_created_on>2025-08-21 07:13:50</sys_created_on>
+        <sys_id>e296283c83e72210e4de52b6feaad3d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_622814_113east_113webeast.x_622814_113east.user</sys_name>
+        <sys_package display_value="113webeast" source="x_622814_113east">fc3668f883e72210e4de52b6feaad301</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="113webeast">fc3668f883e72210e4de52b6feaad301</sys_scope>
+        <sys_security_acl display_value="x_622814_113east_113webeast">d296283c83e72210e4de52b6feaad3cd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e296283c83e72210e4de52b6feaad3d3</sys_update_name>
+        <sys_updated_by>haraguchi.munehisa</sys_updated_by>
+        <sys_updated_on>2025-08-21 07:13:50</sys_updated_on>
+        <sys_user_role display_value="x_622814_113east.user" name="x_622814_113east.user">ca462cf883e72210e4de52b6feaad3ad</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

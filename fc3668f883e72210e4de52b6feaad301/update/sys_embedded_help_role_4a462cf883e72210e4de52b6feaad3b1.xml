@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_622814_113east.user" name="x_622814_113east.user">ca462cf883e72210e4de52b6feaad3ad</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>haraguchi.munehisa</sys_created_by>
+        <sys_created_on>2025-08-21 07:12:27</sys_created_on>
+        <sys_id>4a462cf883e72210e4de52b6feaad3b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ca462cf883e72210e4de52b6feaad3ad</sys_name>
+        <sys_package display_value="113webeast" source="x_622814_113east">fc3668f883e72210e4de52b6feaad301</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="113webeast">fc3668f883e72210e4de52b6feaad301</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4a462cf883e72210e4de52b6feaad3b1</sys_update_name>
+        <sys_updated_by>haraguchi.munehisa</sys_updated_by>
+        <sys_updated_on>2025-08-21 07:12:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
